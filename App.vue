@@ -7,10 +7,10 @@
             data: {
                 // 基础配置
                 // 数据接口请求地址
-                request_url:'https://d1.shopxo.vip/',
+                request_url:'http://weayer.fun/shop/',
 
                 // 静态资源地址（如系统根目录不在public目录下面请在静态地址后面加public目录、如：https://d1.shopxo.vip/public/）
-                static_url:'https://d1.shopxo.vip/',
+                static_url:'http://weayer.fun/shop/',
 
                 // 系统类型（默认default、如额外独立小程序、可与程序分身插件实现不同主体小程序及支付独立）
                 system_type: 'default',
@@ -40,7 +40,7 @@
                 // 蓝色 blue      #1677ff
                 // 棕色 brown     #8B4513
                 // 紫色 purple    #623cec
-                default_theme: 'red',
+                default_theme: 'blue',
 
                 // 多语言列表
                 // 增加或者减少语言时
